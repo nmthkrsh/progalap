@@ -1,0 +1,2 @@
+# progalap
+git gyakorlás
